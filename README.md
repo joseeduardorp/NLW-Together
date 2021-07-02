@@ -1,4 +1,4 @@
-<h1 align="center">MyLink App</h1>
+<h1 align="center">Letmeask</h1>
 
 <div align="center">
   <img src='./github/cover.png' alt="tela inicial letmeask" />
